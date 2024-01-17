@@ -1,4 +1,4 @@
- {c:#B81365} Políticas de Criação de Repositório: {/c} 
+ Políticas de Criação de Repositório: 
 
 - Ao iniciar um projeto, o responsável pela branch principal (master) deve criar o projeto no ambiente git e adicionar os colaboradores.
 - É responsabilidade do mesmo definir e criar as branches de desenvolvimento para os colaboradores.
