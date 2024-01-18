@@ -8,7 +8,7 @@ Projetos:
 Repository:
 
 - PCB_Dino_02
-- Software_Dino_02
+- Firmware_Dino_02
 
 Branch:
 
@@ -16,4 +16,4 @@ Branch:
 - dev_joao
 - dev_rodrigo
 - PCB_rev1 
-- Software_rev1 
+- Firmware_rev1 
